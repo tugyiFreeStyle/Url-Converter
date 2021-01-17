@@ -1,4 +1,4 @@
-# Trendyol Link Converter App
+# Link Converter App
 
 This project is developed by Java 8. The Spring boot project is preferred.
 
